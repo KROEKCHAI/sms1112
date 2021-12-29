@@ -31,4 +31,5 @@ for i in range(jml):
            print(f'{i+1}. [+]ยิงสำเร็จ {no}')
       time.sleep(2.0)
       
-#เครดิตSCK
+#เครดิตพ'ชร'
+ล สุ'รบุ'ตร
